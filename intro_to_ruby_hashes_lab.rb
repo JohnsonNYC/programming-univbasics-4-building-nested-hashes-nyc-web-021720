@@ -21,7 +21,7 @@ def monopoly_with_third_tier
       },
       :names=>
     {
-      :reading_railroad=> Hash.new
+      :reading_railroad=> 
     }
   }
 }
