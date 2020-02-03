@@ -47,7 +47,7 @@ def monopoly_with_fourth_tier
       },
       :names=>
       {
-      :reading_railroad => {"mortgage" => "$100"},
+      :reading_railroad => {"mortgage value" => "$100"},
       :pennsylvania_railroad => Hash.new,
       :b_and_o_railroad => Hash.new,
       :shortline_railroad => Hash.new,
