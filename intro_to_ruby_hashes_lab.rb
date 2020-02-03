@@ -21,11 +21,7 @@ def monopoly_with_third_tier
       },
       :names=>
     {
-      :reading_railroad=>
-      {
-        "mortgage_value"=>"$100"
-      },
-      :pennsylvania
+      :reading_railroad=> Hash.new
     }
   }
 }
